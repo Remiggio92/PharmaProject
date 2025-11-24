@@ -3,7 +3,7 @@
 One Excel file → click 4 buttons → get a perfect yearly sales report with tables, filters, totals and sorting.
 Works with any number of monthly *.txt / *.csv files.
 
-## 90-second demo
+## 60-second demo
 ![Demo](https://github.com/Remiggio92/PharmaProject/blob/main/PharmaProject_Recording.gif)
 *(or check on Google Sites → [Remiggio's Portfolio](https://sites.google.com/d/1lHfTdNbgsY0gpKOjvu3efsIz-YKMZ4eK/p/1gX0BanwGgy8FYQehbas53nqUIUTXqpBH/edit?pli=1))*
 
