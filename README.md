@@ -25,17 +25,17 @@ Done. You have now a perfect, filterable yearly report.
 ## Folder contents
 - 'Pharmaceutical Sales Consolidator.xlsm' → main file (ready to use)
 - '/Sample_Data/' → 3 example monthly files (anonymized)
-- '/screenshots/' → ready Yearly Report + example PivotTable + example PivotChart
+- '/Screenshots/' → ready Yearly Report + example PivotTable + example PivotChart
 - 'PharmaProject_Recording.mp4' → 90-second video demonstration
 
 ## Example of final resut
-![Yearly Report_1](screenshots/Yearly_Report_1.jpg)
-![Yearly Report_2](screenshots/Yearly_Report_2.jpg)
-![Yearly Report_Medicine_Filter](screenshots/Yearly_Report_Medicine_Filter.jpg)
-![Yearly Report_Pharmacy_Filter](screenshots/Yearly_Report_Pharmacy_Filter.jpg)
-![Yearly Pivot_Table](screenshots/Yearly_Pivot_Table.jpg)
-![Yearly Pivot_Table_Filters](screenshots/Yearly_Pivot_Table_Filters.jpg)
-![Yearly Pivot_Chart](screenshots/Yearly_Pivot_Chart.jpg)
+![Yearly Report_1](Screenshots/Yearly_Report_1.jpg)
+![Yearly Report_2](Screenshots/Yearly_Report_2.jpg)
+![Yearly Report_Medicine_Filter](Screenshots/Yearly_Report_Medicine_Filter.jpg)
+![Yearly Report_Pharmacy_Filter](Screenshots/Yearly_Report_Pharmacy_Filter.jpg)
+![Yearly Pivot_Table](Screenshots/Yearly_Pivot_Table.jpg)
+![Yearly Pivot_Table_Filters](Screenshots/Yearly_Pivot_Table_Filters.jpg)
+![Yearly Pivot_Chart](Screenshots/Yearly_Pivot_Chart.jpg)
 
 ## Requirements
 - Windows + Microsoft Excel 2016 or newer (macros must be enabled)
