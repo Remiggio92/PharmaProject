@@ -4,7 +4,7 @@ One Excel file → click 4 buttons → get a perfect yearly sales report with ta
 Works with any number of monthly *.txt / *.csv files.
 
 ## 90-second demo
-![PharmaProject_Recording](https://github.com/Remiggio92/PharmaProject/blob/main/PharmaProject_Recording.mp4)
+![PharmaProject_Recording](https://github.com/Remiggio92/PharmaProject/PharmaProject_Recording.mp4)
 *(or check on Google Sites → [Remiggio's Portfolio](https://sites.google.com/d/1lHfTdNbgsY0gpKOjvu3efsIz-YKMZ4eK/p/1gX0BanwGgy8FYQehbas53nqUIUTXqpBH/edit?pli=1))*
 
 ## Features
@@ -29,13 +29,13 @@ Done. You have now a perfect, filterable yearly report.
 - 'PharmaProject_Recording.mp4' → 90-second video demonstration
 
 ## Example of final resut
-![Yearly Report](screenshots/Yearly_Report_1.jpg)
-![Yearly Report](screenshots/Yearly_Report_2.jpg)
-![Yearly Report](screenshots/Yearly_Report_Medicine_Filter.jpg)
-![Yearly Report](screenshots/Yearly_Report_Pharmacy_Filter.jpg)
-![Yearly Report](screenshots/Yearly_Pivot_Table.jpg)
-![Yearly Report](screenshots/Yearly_Pivot_Table_Filters.jpg)
-![Yearly Report](screenshots/Yearly_Pivot_Chart.jpg)
+![Yearly Report_1](screenshots/Yearly_Report_1.jpg)
+![Yearly Report_2](screenshots/Yearly_Report_2.jpg)
+![Yearly Report_Medicine_Filter](screenshots/Yearly_Report_Medicine_Filter.jpg)
+![Yearly Report_Pharmacy_Filter](screenshots/Yearly_Report_Pharmacy_Filter.jpg)
+![Yearly Pivot_Table](screenshots/Yearly_Pivot_Table.jpg)
+![Yearly Pivot_Table_Filters](screenshots/Yearly_Pivot_Table_Filters.jpg)
+![Yearly Pivot_Chart](screenshots/Yearly_Pivot_Chart.jpg)
 
 ## Requirements
 - Windows + Microsoft Excel 2016 or newer (macros must be enabled)
