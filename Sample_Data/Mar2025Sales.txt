@@ -1,0 +1,21 @@
+Year	Month	Medicine	Pharmacy	Region	 Sales 	Patients #	Prescription #
+2025	March	Metformin	Bishop	West	" 14,619.00 "	974	335
+2025	March	Atorvastatin	Bishop	West	 867.00 	57	336
+2025	March	Sertraline	Bishop	West	" 14,619.00 "	974	337
+2025	March	Levothyroxine	Bishop	West	 867.00 	57	338
+2025	March	Escitalopram	Lee	Central	" 14,619.00 "	974	339
+2025	March	Omeprazole	Lee	Central	" 5,380.50 "	358	340
+2025	March	Lisinopril	Lee	Central	" 14,619.00 "	974	341
+2025	March	Amlodipine	Lee	Central	" 5,380.50 "	358	342
+2025	March	Metformin	Parker	North	" 3,547.50 "	236	343
+2025	March	Atorvastatin	Parker	North	" 14,596.50 "	973	344
+2025	March	Sertraline	Parker	North	" 3,547.50 "	235	345
+2025	March	Levothyroxine	Parker	North	" 14,596.50 "	931	346
+2025	March	Escitalopram	Pullen	South	" 1,498.50 "	99	347
+2025	March	Omeprazole	Pullen	South	 235.50 	15	348
+2025	March	Lisinopril	Pullen	South	" 1,498.50 "	99	349
+2025	March	Amlodipine	Pullen	South	 235.50 	57	350
+2025	March	Omeprazole	Watson	Central	" 5,380.50 "	358	351
+2025	March	Sertraline	Watson	Central	" 14,446.50 "	961	352
+2025	March	Lisinopril	Watson	Central	" 5,380.50 "	387	353
+2025	March	Metformin	Watson	Central	" 14,446.50 "	631	354
