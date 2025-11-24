@@ -4,7 +4,7 @@ One Excel file → click 4 buttons → get a perfect yearly sales report with ta
 Works with any number of monthly *.txt / *.csv files.
 
 ## 90-second demo
-![demo](https://github.com/Remiggio92/PharmaProject/blob/main/PharmaProject_Recording.mp4)
+![PharmaProject_Recording](https://github.com/Remiggio92/PharmaProject/blob/main/PharmaProject_Recording.mp4)
 *(or check on Google Sites → [Remiggio's Portfolio](https://sites.google.com/d/1lHfTdNbgsY0gpKOjvu3efsIz-YKMZ4eK/p/1gX0BanwGgy8FYQehbas53nqUIUTXqpBH/edit?pli=1))*
 
 ## Features
